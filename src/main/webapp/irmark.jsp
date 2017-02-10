@@ -8,5 +8,5 @@
                    IRMarkCalculator mc= new IRMarkCalculator();                  
        out.println(mc.getIRRequest(xml[0],"test"));
       // mc.getIRRequest(xml[0],"test");
-	   %>
+	  %>
 	  
